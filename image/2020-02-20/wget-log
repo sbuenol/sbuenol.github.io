@@ -1,0 +1,15 @@
+--2020-02-20 09:48:22--  https://www.google.com/imgres?imgurl=https%3A%2F%2Fexolasweb.com%2Fwp-content%2Fuploads%2F2018%2F11%2Fdibujos-animados-favoritos-vida-real-21-793x1024.jpg
+Resolving www.google.com (www.google.com)... 172.217.9.196, 2607:f8b0:4004:811::2004
+Connecting to www.google.com (www.google.com)|172.217.9.196|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.google.com/imghp [following]
+--2020-02-20 09:48:22--  https://www.google.com/imghp
+Reusing existing connection to www.google.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘imgres?imgurl=https:%2F%2Fexolasweb.com%2Fwp-content%2Fuploads%2F2018%2F11%2Fdibujos-animados-favoritos-vida-real-21-793x1024.jpg’
+
+               imgres?imgurl=     [<=>                                               ]       0  --.-KB/s               imgres?imgurl=https:%2F%2Fexo     [ <=>                                              ]   4.32K  --.-KB/s    in 0s      
+
+2020-02-20 09:48:22 (65.3 MB/s) - ‘imgres?imgurl=https:%2F%2Fexolasweb.com%2Fwp-content%2Fuploads%2F2018%2F11%2Fdibujos-animados-favoritos-vida-real-21-793x1024.jpg’ saved [4419]
+
